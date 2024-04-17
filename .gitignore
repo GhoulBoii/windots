@@ -1,4 +1,7 @@
 **
+!.glzr/
+!.glzr/zebar
+!.glzr/zebar/config.yaml
 !.gitignore
 !komorebi.ahk
 !komorebi.json
